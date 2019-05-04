@@ -1,1 +1,2 @@
-user=chenjiacai
+user.name=陈家才
+user.age=18
